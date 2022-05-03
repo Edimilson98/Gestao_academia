@@ -1,0 +1,57 @@
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\bin\Debug\estudocsharp.exe.config
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\bin\Debug\estudocsharp.exe
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\bin\Debug\estudocsharp.pdb
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\bin\Debug\EntityFramework.dll
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\bin\Debug\EntityFramework.xml
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.csprojAssemblyReference.cache
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.Form1.resources
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.F_Login.resources
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.Properties.Resources.resources
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.csproj.GenerateResource.cache
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.csproj.CoreCompileInputs.cache
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.csproj.CopyComplete
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.exe
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.pdb
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.F_NovoUsuario.resources
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.F_GestaoUsuarios.resources
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.F_Horarios.resources
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.F_GestaoProfessores.resources
+C:\Users\Edimilson\Desktop\new_project\estudocsharp\obj\Debug\estudocsharp.F_Gestaoturma.resources
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\estudocsharp.exe.config
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\estudocsharp.exe
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\estudocsharp.pdb
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\EntityFramework.dll
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\System.Data.SQLite.dll
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\EntityFramework.xml
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\System.Data.SQLite.xml
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.csproj.AssemblyReference.cache
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.Form1.resources
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.F_GestaoProfessores.resources
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.F_Gestaoturma.resources
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.F_GestaoUsuarios.resources
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.F_Horarios.resources
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.F_Login.resources
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.F_NovoUsuario.resources
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.Properties.Resources.resources
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.csproj.GenerateResource.cache
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.csproj.CoreCompileInputs.cache
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.csproj.CopyComplete
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.exe
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.pdb
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\itextsharp.dll
+C:\Users\Edimilson Dev\source\repos\academia\bin\Debug\itextsharp.xml
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.FrmAluno.resources
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.Frm_SelecionarTurma.resources
+C:\Users\Edimilson Dev\source\repos\academia\obj\Debug\estudocsharp.Frm_GAlunos.resources
